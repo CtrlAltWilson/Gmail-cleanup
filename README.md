@@ -1,6 +1,8 @@
 # Gmail-cleanup
 Mark unread emails as read and archives them. Start inbox fresh
 
+```python3 main.py```
+
 GMAIL API <br>
 https://developers.google.com/gmail/api
 
